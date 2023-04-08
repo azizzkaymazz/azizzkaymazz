@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/azizzkaymazz" target="blank"><img src="https://img.shields.io/twitter/follow/azizzkaymazz?logo=twitter&style=for-the-badge" alt="azizzkaymazz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://azizkaymaz.com](azizkaymaz.com)
+- 👨‍💻 All of my projects are available at [azizkaymaz.com](https://azizkaymaz.com)
 
-- 📝 I regularly write articles on [https://azizkaymaz.com/blog](azizkaymaz.com/blog)
+- 📝 I regularly write articles on [azizkaymaz.com/blog](https://azizkaymaz.com/blog)
 
 - 📫 How to reach me **azizzkaymazz@gmail.com**
 
-- 📄 Know about my experiences [https://azizkaymaz.com/works](azizkaymaz.com/works)
+- 📄 Know about my experiences [azizkaymaz.com/works](https://azizkaymaz.com/works)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
