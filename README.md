@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Kaymaz</h1>
-<h3 align="center">I am a full-stack developer with proficiency in all the necessary tools for developing web applications.</h3>
+<h3 align="center">I am a full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizzkaymazz&label=Profile%20views&color=0e75b6&style=flat" alt="azizzkaymazz" /> </p>
 
